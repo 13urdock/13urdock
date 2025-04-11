@@ -4,7 +4,7 @@
 백엔드 개발과 AI에 관심 있는 학생 개발자입니다. 현재는 명함 앱 'Fliq'의 백엔드를 개발 중이며, AI 분야에 관심이 있어 공부하고 있습니다.
 
 ## 💼 Current Projects
-- **Fliq** - 디지털 명함 애플리케이션 (백엔드 개발 담당)
+- ![Fliq](https://github.com/HongEolHongEol) - 디지털 명함 애플리케이션 (백엔드 개발 담당)
   - Node.js와 Express를 활용한 RESTful API 구축
   - 사용자 인증 및 데이터베이스 관리
 
