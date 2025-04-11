@@ -1,6 +1,6 @@
-# 안녕하세요, 13urdock입니다 👋
+# Hi, I'm 13urdock
 
-## 🚀 About Me
+## ✨ About Me
 백엔드 개발과 AI에 관심 있는 학생 개발자입니다. 현재는 명함 앱 'Fliq'의 백엔드를 개발 중이며, AI 분야에 관심이 있어 공부하고 있습니다.
 
 ## 💼 Current Projects
@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 - **Backend:** Node.js, Express
-- **Mobile/Frontend:** Flutter
+- **Mobile/Frontend:** Flutter, Next.js
 - **AI/ML:** Python, MNLI, RAG
 - **Currently Learning:** 인공지능 자연어처리 기술, 대규모 언어 모델
 
@@ -19,7 +19,7 @@
 - RAG(Retrieval-Augmented Generation) 시스템 공부
 
 ## 🌱 Future Goals
-- AI와 백엔드 기술을 결합한 혁신적인 서비스 개발
+- AI와 백엔드 기술을 결합한 서비스 개발
 - 자연어처리 분야의 전문성 강화
 
 ## 📊 GitHub Stats
